@@ -1,0 +1,4 @@
+1. To test the GNode scenarios 1 and 2 please run the com/cisco/sample/test/GraphTest.java
+
+2. To test the word count solution please run the com\cisco\sample\WordCounter.java
+3. The sample text file for the word count is testwords.txt. 
